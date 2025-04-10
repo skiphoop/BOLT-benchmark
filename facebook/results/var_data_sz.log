@@ -1,0 +1,183 @@
+
+running 96 tests
+test linear_time_oram::tests::linear_time_oram_correctness_linear_workload ... ignored
+test linear_time_oram::tests::linear_time_oram_correctness_random_workload ... ignored
+test path_oram::tests::default_oram_linear_correctness ... ignored
+test path_oram::tests::default_oram_path_correctness ... ignored
+test path_oram::tests::linear_workload16_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload16_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload2_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload4_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload4_2_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload8_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload_stash_size_16_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_2_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_4_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_4_2_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_8_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload16_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload16_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload2_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload2_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload4_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload4_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload4_2_3_8_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_2_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_64_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_10_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_1_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload4_2_5_8_40_1 ... ignored
+test path_oram::tests::random_workload8_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload8_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload_stash_size_16_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_2_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_4_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_4_2_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_8_1_4_8_40_16384 ... ignored
+test utils::tests::check_size_of_tree_index ... ignored
+test utils::tests::test_bitonic_sort ... ignored
+
+test result: ok. 0 passed; 0 failed; 96 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+DefaultOram::read/(Capacity: 131072 Blocksize: 8)
+                        time:   [327.43 µs 330.31 µs 334.13 µs]
+                        change: [-3.7320% -0.3344% +3.5950%] (p = 0.87 > 0.05)
+                        No change in performance detected.
+DefaultOram::read/(Capacity: 524288 Blocksize: 8)
+                        time:   [304.74 µs 316.12 µs 322.49 µs]
+                        change: [-5.1304% -2.0866% +0.9879%] (p = 0.24 > 0.05)
+                        No change in performance detected.
+DefaultOram::read/(Capacity: 1048576 Blocksize: 8)
+                        time:   [458.83 µs 460.97 µs 463.01 µs]
+                        change: [-1.9212% -0.3566% +1.1325%] (p = 0.68 > 0.05)
+                        No change in performance detected.
+DefaultOram::read/(Capacity: 4194304 Blocksize: 8)
+                        time:   [451.76 µs 453.74 µs 455.11 µs]
+                        change: [-1.4312% -0.6311% +0.0477%] (p = 0.14 > 0.05)
+                        No change in performance detected.
+DefaultOram::read/(Capacity: 8388608 Blocksize: 8)
+                        time:   [597.37 µs 599.38 µs 601.21 µs]
+                        change: [-0.7402% +0.5237% +1.7393%] (p = 0.44 > 0.05)
+                        No change in performance detected.
+Found 2 outliers among 10 measurements (20.00%)
+  2 (20.00%) high severe
+
+DefaultOram::write/(Capacity: 131072 Blocksize: 8)
+                        time:   [329.84 µs 330.81 µs 331.82 µs]
+                        change: [-2.8375% -0.5960% +2.1238%] (p = 0.69 > 0.05)
+                        No change in performance detected.
+Found 2 outliers among 10 measurements (20.00%)
+  1 (10.00%) low mild
+  1 (10.00%) high severe
+DefaultOram::write/(Capacity: 524288 Blocksize: 8)
+                        time:   [321.06 µs 322.41 µs 324.20 µs]
+                        change: [-0.7680% +0.4821% +1.8818%] (p = 0.50 > 0.05)
+                        No change in performance detected.
+DefaultOram::write/(Capacity: 1048576 Blocksize: 8)
+                        time:   [457.82 µs 460.88 µs 465.23 µs]
+                        change: [-2.4099% -0.8795% +0.5826%] (p = 0.29 > 0.05)
+                        No change in performance detected.
+DefaultOram::write/(Capacity: 4194304 Blocksize: 8)
+                        time:   [447.31 µs 450.50 µs 452.53 µs]
+                        change: [-1.9471% +0.1845% +3.0280%] (p = 0.90 > 0.05)
+                        No change in performance detected.
+Found 2 outliers among 10 measurements (20.00%)
+  1 (10.00%) low severe
+  1 (10.00%) high severe
+DefaultOram::write/(Capacity: 8388608 Blocksize: 8)
+                        time:   [596.84 µs 600.72 µs 605.22 µs]
+                        change: [+1.4111% +3.5181% +5.8562%] (p = 0.01 < 0.05)
+                        Performance has regressed.
+
+DefaultOram::initialization/(Capacity: 131072 Blocksize: 8)
+                        time:   [1.0648 s 1.0655 s 1.0662 s]
+                        change: [+0.1845% +0.4011% +0.6119%] (p = 0.00 < 0.05)
+                        Change within noise threshold.
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high mild
+DefaultOram::initialization/(Capacity: 524288 Blocksize: 8)
+                        time:   [12.794 s 12.807 s 12.821 s]
+                        change: [+0.5027% +0.7607% +1.0436%] (p = 0.00 < 0.05)
+                        Change within noise threshold.
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high mild
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 8)
+                        time:   [42.040 s 42.307 s 42.674 s]
+                        change: [+0.2458% +0.9307% +1.8416%] (p = 0.02 < 0.05)
+                        Change within noise threshold.
+Found 2 outliers among 10 measurements (20.00%)
+  1 (10.00%) high mild
+  1 (10.00%) high severe
+DefaultOram::initialization/(Capacity: 4194304 Blocksize: 8)
+                        time:   [165.68 s 166.18 s 166.78 s]
+                        change: [+1.1323% +1.4928% +1.8582%] (p = 0.00 < 0.05)
+                        Performance has regressed.
+Found 2 outliers among 10 measurements (20.00%)
+  2 (20.00%) high mild
+DefaultOram::initialization/(Capacity: 8388608 Blocksize: 8)
+                        time:   [484.78 s 486.86 s 489.32 s]
+                        change: [+0.3514% +0.7952% +1.3494%] (p = 0.00 < 0.05)
+                        Change within noise threshold.
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high mild
+

@@ -1,0 +1,46 @@
+Simulating 1000000000 random accesses on 1048576 data elements across 131072 bins (N/8)
+HBM bins: 26214 (20%), Host bins: 104858 (80%)
+Initial elements per bin: 8
+Initial maximum bin load: 8
+Initial total HBM load: 209712 elements
+-----------------------------------------------------------
+Theoretical upper bounds:
+  - Max bin load: 13.32
+  - Max HBM load: 217742.85
+  - Max queue size: 78976.65
+  - Max HBM usage: 296719.50
+-----------------------------------------------------------
+Accesses (M) | Max Bin Load | Total HBM Load | Queue Size
+-----------------------------------------------------------
+        100 |           12 |         209988 |      52498
+        200 |           12 |         209808 |      52774
+        300 |           12 |         209752 |      52599
+        400 |           12 |         209686 |      52441
+        500 |           12 |         209730 |      52822
+        600 |           12 |         209980 |      52563
+        700 |           12 |         209737 |      52151
+        800 |           12 |         209335 |      52596
+        900 |           12 |         209580 |      52594
+       1000 |           12 |         209521 |      52537
+-----------------------------------------------------------
+Simulation completed in 83.64 seconds
+
+Comparison of Experimental Results vs. Theoretical Bounds:
++-----------------+---------------+----------------+----------+
+| Metric          | Experimental  | Theoretical    | Slack    |
++-----------------+---------------+----------------+----------+
+| Max Bin Load    |            12 |          13.32 |     1.32 |
+| Max HBM Load    |        210521 |      217742.85 |  7221.85 |
+| Max Queue Size  |         53422 |       78976.65 | 25554.65 |
+| Max HBM Usage   |        263356 |      296719.50 | 33363.50 |
++-----------------+---------------+----------------+----------+
+
+Additional Statistics:
+Final maximum bin load: 12
+Final total HBM load: 209521 elements (19.98% of total)
+Maximum total HBM load during simulation: 210521 elements (20.08% of total)
+Final queue size: 52537 elements
+Maximum queue size during simulation: 53422 elements
+Maximum HBM usage (HBM load + queue size): 263356 elements
+Number of unique labels in queue: 35062
+Theoretical average load per bin: 8.00

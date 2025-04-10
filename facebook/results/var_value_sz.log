@@ -1,0 +1,216 @@
+Compiling oram v0.2.0-pre.1 (/home/cw166/Desktop/facebook-oram)
+warning: function `benchmark_random_operations` is never used
+   --> benches/benchmark.rs:123:4
+    |
+123 | fn benchmark_random_operations<const B: BlockSize, T: Oram<V = BlockValue<B>> + Benchmarkable>(
+    |    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |
+    = note: `#[warn(dead_code)]` on by default
+
+warning: function `run_many_random_accesses` is never used
+   --> benches/benchmark.rs:172:4
+    |
+172 | fn run_many_random_accesses<const B: BlockSize, T: Oram<V = BlockValue<B>>>(
+    |    ^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: struct `RandomOperationsParameters` is never constructed
+   --> benches/benchmark.rs:218:8
+    |
+218 | struct RandomOperationsParameters {
+    |        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: `oram` (bench "benchmark") generated 3 warnings
+    Finished `bench` profile [optimized] target(s) in 2.13s
+     Running unittests src/lib.rs (target/release/deps/oram-676ea7237f8b8de1)
+
+running 96 tests
+test linear_time_oram::tests::linear_time_oram_correctness_linear_workload ... ignored
+test linear_time_oram::tests::linear_time_oram_correctness_random_workload ... ignored
+test path_oram::tests::default_oram_linear_correctness ... ignored
+test path_oram::tests::default_oram_path_correctness ... ignored
+test path_oram::tests::linear_workload16_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload16_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload16_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload2_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload2_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload4_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload4_2_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload4_2_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_3_8_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_2_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_64_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_10_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_1_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_40_1 ... ignored
+test path_oram::tests::linear_workload8_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload8_1_5_8_40_1 ... ignored
+test path_oram::tests::linear_workload_stash_size_16_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_2_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_4_1_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_4_2_4_8_40_16384 ... ignored
+test path_oram::tests::linear_workload_stash_size_8_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload16_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload16_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload16_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload2_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload2_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload2_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload4_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload4_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload4_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload4_2_3_8_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_2_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_64_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_10_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_1_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_40_1 ... ignored
+test path_oram::tests::random_workload4_2_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload4_2_5_8_40_1 ... ignored
+test path_oram::tests::random_workload8_1_3_8_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_2_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_64_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_10_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_1_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_40_1 ... ignored
+test path_oram::tests::random_workload8_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload8_1_5_8_40_1 ... ignored
+test path_oram::tests::random_workload_stash_size_16_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_2_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_4_1_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_4_2_4_8_40_16384 ... ignored
+test path_oram::tests::random_workload_stash_size_8_1_4_8_40_16384 ... ignored
+test utils::tests::check_size_of_tree_index ... ignored
+test utils::tests::test_bitonic_sort ... ignored
+
+test result: ok. 0 passed; 0 failed; 96 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running benches/benchmark.rs (target/release/deps/benchmark-1be0c3086372ff8e)
+Gnuplot not found, using plotters backend
+DefaultOram::read/(Capacity: 1048576 Blocksize: 8)
+                        time:   [467.69 µs 471.55 µs 474.71 µs]
+                        change: [-0.5069% +1.7546% +4.9606%] (p = 0.27 > 0.05)
+                        No change in performance detected.
+
+DefaultOram::write/(Capacity: 1048576 Blocksize: 8)
+                        time:   [465.17 µs 467.51 µs 469.62 µs]
+                        change: [+0.0205% +1.6760% +3.3041%] (p = 0.07 > 0.05)
+                        No change in performance detected.
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high severe
+
+Benchmarking DefaultOram::initialization/(Capacity: 1048576 Blocksize: 8): Warming up for 100.00 ms
+Warning: Unable to complete 10 samples in 100.0ms. You may wish to increase target time to 455.5s.
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 8)
+                        time:   [44.028 s 44.666 s 45.313 s]
+                        change: [+2.4422% +3.8898% +5.5339%] (p = 0.00 < 0.05)
+                        Performance has regressed.
+
+DefaultOram::read/(Capacity: 1048576 Blocksize: 16)
+                        time:   [438.95 µs 440.51 µs 442.15 µs]
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high mild
+
+DefaultOram::write/(Capacity: 1048576 Blocksize: 16)
+                        time:   [437.51 µs 438.93 µs 440.14 µs]
+
+Benchmarking DefaultOram::initialization/(Capacity: 1048576 Blocksize: 16): Warming up for 100.00 ms
+Warning: Unable to complete 10 samples in 100.0ms. You may wish to increase target time to 439.7s.
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 16)
+                        time:   [44.979 s 46.019 s 47.141 s]
+
+DefaultOram::read/(Capacity: 1048576 Blocksize: 32)
+                        time:   [442.41 µs 443.90 µs 445.19 µs]
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high mild
+
+DefaultOram::write/(Capacity: 1048576 Blocksize: 32)
+                        time:   [641.74 µs 646.71 µs 649.63 µs]
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) low mild
+
+Benchmarking DefaultOram::initialization/(Capacity: 1048576 Blocksize: 32): Warming up for 100.00 ms
+Warning: Unable to complete 10 samples in 100.0ms. You may wish to increase target time to 458.4s.
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 32)
+                        time:   [46.250 s 46.658 s 47.149 s]
+Found 4 outliers among 10 measurements (40.00%)
+  2 (20.00%) low mild
+  1 (10.00%) high mild
+  1 (10.00%) high severe
+
+DefaultOram::read/(Capacity: 1048576 Blocksize: 64)
+                        time:   [431.69 µs 434.04 µs 436.22 µs]
+
+DefaultOram::write/(Capacity: 1048576 Blocksize: 64)
+                        time:   [436.19 µs 437.79 µs 439.32 µs]
+
+Benchmarking DefaultOram::initialization/(Capacity: 1048576 Blocksize: 64): Warming up for 100.00 ms
+Warning: Unable to complete 10 samples in 100.0ms. You may wish to increase target time to 462.5s.
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 64)
+                        time:   [45.435 s 47.160 s 49.039 s]
+
+DefaultOram::read/(Capacity: 1048576 Blocksize: 128)
+                        time:   [448.57 µs 450.38 µs 454.25 µs]
+
+DefaultOram::write/(Capacity: 1048576 Blocksize: 128)
+                        time:   [446.04 µs 448.27 µs 451.58 µs]
+
+Benchmarking DefaultOram::initialization/(Capacity: 1048576 Blocksize: 128): Warming up for 100.00 ms
+Warning: Unable to complete 10 samples in 100.0ms. You may wish to increase target time to 452.2s.
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 128)
+                        time:   [43.656 s 44.805 s 46.647 s]
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high severe
+
+DefaultOram::read/(Capacity: 1048576 Blocksize: 256)
+                        time:   [471.23 µs 474.23 µs 476.80 µs]
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) low mild
+
+DefaultOram::write/(Capacity: 1048576 Blocksize: 256)
+                        time:   [468.04 µs 471.97 µs 475.55 µs]
+Found 1 outliers among 10 measurements (10.00%)
+  1 (10.00%) high mild
+
+Benchmarking DefaultOram::initialization/(Capacity: 1048576 Blocksize: 256): Warming up for 100.00 ms
+Warning: Unable to complete 10 samples in 100.0ms. You may wish to increase target time to 503.5s.
+DefaultOram::initialization/(Capacity: 1048576 Blocksize: 256)
+                        time:   [48.119 s 49.192 s 50.239 s]

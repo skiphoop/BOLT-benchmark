@@ -1,0 +1,354 @@
+Building tracker with 49 total tracers.
+Building profiler with 49 total tracers.
+Building MaxTracker
+Installing signal handler
+Running main() from /home/cw166/Desktop/EnigMap-main/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from PerfOTree/0, where TypeParam = TestParameter<_ORAM::PathORAM::ORAMClient::ORAMClient<_OBST::Node, 4u, false, 1u, 10u, true> >
+[ RUN      ] PerfOTree/0.PointSearchPartial
+
+[Report]
+max depth: 4
+max nodes: 4
+oram.N: 4
+oram.L: 2
+oram.Z: 4
+queries: 2000
+total time: 0.062712
+us/query: 31.356
+
+[/Report]
+
+[Report]
+max depth: 5
+max nodes: 8
+oram.N: 8
+oram.L: 3
+oram.Z: 4
+queries: 2000
+total time: 0.116644
+us/query: 58.322
+
+[/Report]
+
+[Report]
+max depth: 7
+max nodes: 16
+oram.N: 16
+oram.L: 4
+oram.Z: 4
+queries: 2000
+total time: 0.214803
+us/query: 107.401
+
+[/Report]
+
+[Report]
+max depth: 8
+max nodes: 32
+oram.N: 32
+oram.L: 5
+oram.Z: 4
+queries: 2000
+total time: 0.31781
+us/query: 158.905
+
+[/Report]
+
+[Report]
+max depth: 10
+max nodes: 64
+oram.N: 64
+oram.L: 6
+oram.Z: 4
+queries: 2000
+total time: 0.483177
+us/query: 241.589
+
+[/Report]
+
+[Report]
+max depth: 11
+max nodes: 128
+oram.N: 128
+oram.L: 7
+oram.Z: 4
+queries: 2000
+total time: 0.622162
+us/query: 311.081
+
+[/Report]
+
+[Report]
+max depth: 13
+max nodes: 256
+oram.N: 256
+oram.L: 8
+oram.Z: 4
+queries: 2000
+total time: 0.855371
+us/query: 427.685
+
+[/Report]
+
+[Report]
+max depth: 14
+max nodes: 512
+oram.N: 512
+oram.L: 9
+oram.Z: 4
+queries: 2000
+total time: 1.05218
+us/query: 526.088
+
+[/Report]
+
+[Report]
+max depth: 16
+max nodes: 1024
+oram.N: 1024
+oram.L: 10
+oram.Z: 4
+queries: 2000
+total time: 1.36837
+us/query: 684.183
+
+[/Report]
+
+[Report]
+max depth: 17
+max nodes: 2048
+oram.N: 2048
+oram.L: 11
+oram.Z: 4
+queries: 2000
+total time: 1.58245
+us/query: 791.225
+
+[/Report]
+
+[Report]
+max depth: 19
+max nodes: 4096
+oram.N: 4096
+oram.L: 12
+oram.Z: 4
+queries: 2000
+total time: 1.90347
+us/query: 951.734
+
+[/Report]
+
+[Report]
+max depth: 20
+max nodes: 8192
+oram.N: 8192
+oram.L: 13
+oram.Z: 4
+queries: 2000
+total time: 2.26423
+us/query: 1132.12
+
+[/Report]
+
+[Report]
+max depth: 22
+max nodes: 16384
+oram.N: 16384
+oram.L: 14
+oram.Z: 4
+queries: 2000
+total time: 2.68911
+us/query: 1344.55
+
+[/Report]
+
+[Report]
+max depth: 23
+max nodes: 32768
+oram.N: 32768
+oram.L: 15
+oram.Z: 4
+queries: 2000
+total time: 3.09213
+us/query: 1546.07
+
+[/Report]
+
+[Report]
+max depth: 25
+max nodes: 65536
+oram.N: 65536
+oram.L: 16
+oram.Z: 4
+queries: 2000
+total time: 3.55861
+us/query: 1779.31
+
+[/Report]
+
+[Report]
+max depth: 26
+max nodes: 131072
+oram.N: 131072
+oram.L: 17
+oram.Z: 4
+queries: 2000
+total time: 3.94229
+us/query: 1971.14
+
+[/Report]
+
+[Report]
+max depth: 28
+max nodes: 262144
+oram.N: 262144
+oram.L: 18
+oram.Z: 4
+queries: 2000
+total time: 4.5643
+us/query: 2282.15
+
+[/Report]
+[       OK ] PerfOTree/0.PointSearchPartial (55060 ms)
+[ RUN      ] PerfOTree/0.InsertionsPartial
+
+[Report]
+max depth: 11
+max nodes: 128
+oram.N: 126
+oram.L: 7
+oram.Z: 4
+queries: 120
+total init time: 0.076522
+
+[/Report]
+
+[Report]
+max depth: 13
+max nodes: 256
+oram.N: 254
+oram.L: 8
+oram.Z: 4
+queries: 248
+total init time: 0.216519
+
+[/Report]
+
+[Report]
+max depth: 14
+max nodes: 512
+oram.N: 510
+oram.L: 9
+oram.Z: 4
+queries: 504
+total init time: 0.55927
+
+[/Report]
+
+[Report]
+max depth: 16
+max nodes: 1024
+oram.N: 1022
+oram.L: 10
+oram.Z: 4
+queries: 1000
+total init time: 1.44274
+
+[/Report]
+
+[Report]
+max depth: 17
+max nodes: 2048
+oram.N: 2046
+oram.L: 11
+oram.Z: 4
+queries: 1000
+total init time: 1.6363
+
+[/Report]
+
+[Report]
+max depth: 19
+max nodes: 4096
+oram.N: 4094
+oram.L: 12
+oram.Z: 4
+queries: 1000
+total init time: 1.9654
+
+[/Report]
+
+[Report]
+max depth: 20
+max nodes: 8192
+oram.N: 8190
+oram.L: 13
+oram.Z: 4
+queries: 1000
+total init time: 2.27156
+
+[/Report]
+
+[Report]
+max depth: 22
+max nodes: 16384
+oram.N: 16382
+oram.L: 14
+oram.Z: 4
+queries: 1000
+total init time: 2.72241
+
+[/Report]
+
+[Report]
+max depth: 23
+max nodes: 32768
+oram.N: 32766
+oram.L: 15
+oram.Z: 4
+queries: 1000
+total init time: 3.08223
+
+[/Report]
+
+[Report]
+max depth: 25
+max nodes: 65536
+oram.N: 65534
+oram.L: 16
+oram.Z: 4
+queries: 1000
+total init time: 3.58471
+
+[/Report]
+
+[Report]
+max depth: 26
+max nodes: 131072
+oram.N: 131070
+oram.L: 17
+oram.Z: 4
+queries: 1000
+total init time: 3.99076
+
+[/Report]
+
+[Report]
+max depth: 28
+max nodes: 262144
+oram.N: 262142
+oram.L: 18
+oram.Z: 4
+queries: 1000
+total init time: 4.55939
+
+[/Report]
+[       OK ] PerfOTree/0.InsertionsPartial (26139 ms)
+[----------] 2 tests from PerfOTree/0 (81199 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (81199 ms total)
+[  PASSED  ] 2 tests.
+TimeTracker::Log:
