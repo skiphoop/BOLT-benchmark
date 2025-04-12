@@ -1,0 +1,800 @@
+file /home/cw166/Desktop/H2O2RAM/bin/hash_map.bin16 not found
+n: 128, op_num: 128
+alg: linear_scan
+n: 256, op_num: 256
+alg: linear_scan
+n: 512, op_num: 512
+alg: linear_scan
+n: 1024, op_num: 1024
+alg: linear_scan
+n: 2048, op_num: 2048
+alg: hash_bucket w/ bucket_num: 31, bucket_size: 155
+n: 4096, op_num: 4096
+alg: hash_bucket w/ bucket_num: 66, bucket_size: 151
+n: 8192, op_num: 8192
+                n: 4096, op_num: 8192
+                alg: hash_bucket w/ bucket_num: 35, bucket_size: 232
+        epsilon_inv: 4, bin_size: 16384, time: 29.9581, memory usage: 28744 KB
+alg: hash_bucket w/ bucket_num: 82, bucket_size: 209
+n: 16384, op_num: 16384
+                n: 8192, op_num: 16384
+                        epsilon_inv: 4, bin_size: 16384, time: 28.6555, memory usage: 31872 KB
+                alg: hash_bucket w/ bucket_num: 106, bucket_size: 176
+        epsilon_inv: 4, bin_size: 16384, time: 41.1999, memory usage: 31872 KB
+alg: hash_bucket w/ bucket_num: 100, bucket_size: 301
+n: 32768, op_num: 32768
+                n: 16384, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 41.7728, memory usage: 38500 KB
+                alg: hash_bucket w/ bucket_num: 231, bucket_size: 167
+        epsilon_inv: 4, bin_size: 16384, time: 73.5593, memory usage: 38500 KB
+                n: 8192, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 28.5779, memory usage: 38500 KB
+                alg: hash_bucket w/ bucket_num: 187, bucket_size: 122
+        epsilon_inv: 8, bin_size: 65536, time: 70.2128, memory usage: 40664 KB
+alg: hash_bucket w/ bucket_num: 254, bucket_size: 254
+n: 65536, op_num: 65536
+                n: 32768, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 75.771, memory usage: 55348 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 64.8028, memory usage: 55348 KB
+                alg: hash_bucket w/ bucket_num: 454, bucket_size: 170
+        epsilon_inv: 4, bin_size: 16384, time: 148.646, memory usage: 55368 KB
+                n: 16384, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 42.7174, memory usage: 55396 KB
+                alg: hash_bucket w/ bucket_num: 342, bucket_size: 130
+        epsilon_inv: 8, bin_size: 65536, time: 128.889, memory usage: 59816 KB
+alg: hash_bucket w/ bucket_num: 296, bucket_size: 381
+file /home/cw166/Desktop/H2O2RAM/bin/hash_map.bin24 not found
+n: 128, op_num: 128
+alg: linear_scan
+n: 256, op_num: 256
+alg: linear_scan
+n: 512, op_num: 512
+alg: linear_scan
+n: 1024, op_num: 1024
+alg: linear_scan
+n: 2048, op_num: 2048
+alg: hash_bucket w/ bucket_num: 31, bucket_size: 155
+n: 4096, op_num: 4096
+alg: hash_bucket w/ bucket_num: 35, bucket_size: 232
+n: 8192, op_num: 8192
+                n: 4096, op_num: 8192
+                alg: hash_bucket w/ bucket_num: 66, bucket_size: 151
+        epsilon_inv: 4, bin_size: 16384, time: 28.7759, memory usage: 79380 KB
+alg: hash_bucket w/ bucket_num: 82, bucket_size: 209
+n: 16384, op_num: 16384
+                n: 8192, op_num: 16384
+                        epsilon_inv: 4, bin_size: 16384, time: 27.5294, memory usage: 83232 KB
+                alg: hash_bucket w/ bucket_num: 82, bucket_size: 209
+        epsilon_inv: 4, bin_size: 16384, time: 40.6438, memory usage: 83472 KB
+alg: hash_bucket w/ bucket_num: 231, bucket_size: 167
+n: 32768, op_num: 32768
+                n: 16384, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 39.7249, memory usage: 90144 KB
+                alg: hash_bucket w/ bucket_num: 342, bucket_size: 130
+        epsilon_inv: 4, bin_size: 16384, time: 78.5722, memory usage: 91592 KB
+                n: 8192, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 27.1286, memory usage: 92352 KB
+                alg: hash_bucket w/ bucket_num: 187, bucket_size: 122
+        epsilon_inv: 8, bin_size: 65536, time: 71.5488, memory usage: 94696 KB
+alg: hash_bucket w/ bucket_num: 454, bucket_size: 170
+n: 65536, op_num: 65536
+                n: 32768, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 81.2879, memory usage: 115560 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 70.7076, memory usage: 115560 KB
+                alg: hash_bucket w/ bucket_num: 618, bucket_size: 139
+        epsilon_inv: 4, bin_size: 16384, time: 149.978, memory usage: 115600 KB
+                n: 16384, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 38.6683, memory usage: 117244 KB
+                alg: hash_bucket w/ bucket_num: 443, bucket_size: 111
+        epsilon_inv: 8, bin_size: 65536, time: 134.687, memory usage: 120632 KB
+alg: hash_bucket w/ bucket_num: 533, bucket_size: 246
+file /home/cw166/Desktop/H2O2RAM/bin/hash_map.bin40 not found
+n: 128, op_num: 128
+alg: linear_scan
+n: 256, op_num: 256
+alg: linear_scan
+n: 512, op_num: 512
+alg: linear_scan
+n: 1024, op_num: 1024
+alg: linear_scan
+n: 2048, op_num: 2048
+alg: hash_bucket w/ bucket_num: 31, bucket_size: 155
+n: 4096, op_num: 4096
+alg: hash_bucket w/ bucket_num: 66, bucket_size: 151
+n: 8192, op_num: 8192
+                n: 4096, op_num: 8192
+                alg: hash_bucket w/ bucket_num: 117, bucket_size: 106
+        epsilon_inv: 4, bin_size: 16384, time: 29.9275, memory usage: 120632 KB
+alg: hash_bucket w/ bucket_num: 106, bucket_size: 176
+n: 16384, op_num: 16384
+                n: 8192, op_num: 16384
+                        epsilon_inv: 4, bin_size: 16384, time: 29.9303, memory usage: 125680 KB
+                alg: hash_bucket w/ bucket_num: 211, bucket_size: 113
+        epsilon_inv: 4, bin_size: 16384, time: 42.5329, memory usage: 127504 KB
+alg: hash_bucket w/ bucket_num: 231, bucket_size: 167
+n: 32768, op_num: 32768
+                n: 16384, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 39.6418, memory usage: 138616 KB
+                alg: hash_bucket w/ bucket_num: 181, bucket_size: 197
+        epsilon_inv: 4, bin_size: 16384, time: 78.4382, memory usage: 140104 KB
+                n: 8192, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 27.6052, memory usage: 141928 KB
+                alg: hash_bucket w/ bucket_num: 211, bucket_size: 113
+        epsilon_inv: 8, bin_size: 65536, time: 83.4545, memory usage: 147708 KB
+alg: hash_bucket w/ bucket_num: 254, bucket_size: 254
+n: 65536, op_num: 65536
+                n: 32768, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 82.547, memory usage: 180288 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 73.6088, memory usage: 180288 KB
+                alg: hash_bucket w/ bucket_num: 355, bucket_size: 201
+        epsilon_inv: 4, bin_size: 16384, time: 168.595, memory usage: 183404 KB
+                n: 16384, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 43.7278, memory usage: 185768 KB
+                alg: hash_bucket w/ bucket_num: 312, bucket_size: 138
+        epsilon_inv: 8, bin_size: 65536, time: 155.547, memory usage: 192796 KB
+alg: hash_bucket w/ bucket_num: 533, bucket_size: 246
+file /home/cw166/Desktop/H2O2RAM/bin/hash_map.bin72 not found
+n: 128, op_num: 128
+alg: linear_scan
+n: 256, op_num: 256
+alg: linear_scan
+n: 512, op_num: 512
+alg: linear_scan
+n: 1024, op_num: 1024
+alg: linear_scan
+n: 2048, op_num: 2048
+alg: hash_bucket w/ bucket_num: 31, bucket_size: 155
+n: 4096, op_num: 4096
+alg: hash_bucket w/ bucket_num: 66, bucket_size: 151
+n: 8192, op_num: 8192
+                n: 4096, op_num: 8192
+                alg: hash_bucket w/ bucket_num: 117, bucket_size: 106
+        epsilon_inv: 4, bin_size: 16384, time: 31.2131, memory usage: 193852 KB
+alg: hash_bucket w/ bucket_num: 106, bucket_size: 176
+n: 16384, op_num: 16384
+                n: 8192, op_num: 16384
+                        epsilon_inv: 4, bin_size: 16384, time: 31.8354, memory usage: 203852 KB
+                alg: hash_bucket w/ bucket_num: 147, bucket_size: 142
+        epsilon_inv: 4, bin_size: 16384, time: 54.2855, memory usage: 206732 KB
+alg: hash_bucket w/ bucket_num: 231, bucket_size: 167
+n: 32768, op_num: 32768
+                n: 16384, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 51.6294, memory usage: 226032 KB
+                alg: hash_bucket w/ bucket_num: 312, bucket_size: 138
+        epsilon_inv: 4, bin_size: 16384, time: 105.521, memory usage: 232788 KB
+                n: 8192, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 31.7085, memory usage: 232804 KB
+                alg: hash_bucket w/ bucket_num: 211, bucket_size: 113
+        epsilon_inv: 8, bin_size: 65536, time: 102.641, memory usage: 241708 KB
+alg: hash_bucket w/ bucket_num: 454, bucket_size: 170
+n: 65536, op_num: 65536
+                n: 32768, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 98.786, memory usage: 298032 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 94.3174, memory usage: 298032 KB
+                alg: hash_bucket w/ bucket_num: 518, bucket_size: 156
+        epsilon_inv: 4, bin_size: 16384, time: 219.853, memory usage: 301376 KB
+                n: 16384, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 52.1636, memory usage: 303512 KB
+                alg: hash_bucket w/ bucket_num: 262, bucket_size: 154
+        epsilon_inv: 8, bin_size: 65536, time: 188.095, memory usage: 317424 KB
+alg: hash_bucket w/ bucket_num: 725, bucket_size: 199
+file /home/cw166/Desktop/H2O2RAM/bin/hash_map.bin136 not found
+n: 128, op_num: 128
+alg: linear_scan
+n: 256, op_num: 256
+alg: linear_scan
+n: 512, op_num: 512
+alg: linear_scan
+n: 1024, op_num: 1024
+alg: linear_scan
+n: 2048, op_num: 2048
+alg: hash_bucket w/ bucket_num: 31, bucket_size: 155
+n: 4096, op_num: 4096
+alg: hash_bucket w/ bucket_num: 35, bucket_size: 232
+n: 8192, op_num: 8192
+                n: 4096, op_num: 8192
+                alg: hash_bucket w/ bucket_num: 35, bucket_size: 232
+        epsilon_inv: 4, bin_size: 16384, time: 38.9342, memory usage: 319004 KB
+alg: hash_bucket w/ bucket_num: 42, bucket_size: 340
+n: 16384, op_num: 16384
+                n: 8192, op_num: 16384
+                        epsilon_inv: 4, bin_size: 16384, time: 36.759, memory usage: 334088 KB
+                alg: hash_bucket w/ bucket_num: 82, bucket_size: 209
+        epsilon_inv: 4, bin_size: 16384, time: 65.8864, memory usage: 339080 KB
+alg: hash_bucket w/ bucket_num: 100, bucket_size: 301
+n: 32768, op_num: 32768
+                n: 16384, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 64.1651, memory usage: 374216 KB
+                alg: hash_bucket w/ bucket_num: 181, bucket_size: 197
+        epsilon_inv: 4, bin_size: 16384, time: 130.381, memory usage: 384692 KB
+                n: 8192, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 34.9955, memory usage: 384704 KB
+                alg: hash_bucket w/ bucket_num: 187, bucket_size: 122
+        epsilon_inv: 8, bin_size: 65536, time: 126.024, memory usage: 399124 KB
+alg: hash_bucket w/ bucket_num: 454, bucket_size: 170
+n: 65536, op_num: 65536
+                n: 32768, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 127.54, memory usage: 496916 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 124.011, memory usage: 496916 KB
+                alg: hash_bucket w/ bucket_num: 618, bucket_size: 139
+        epsilon_inv: 4, bin_size: 16384, time: 288.376, memory usage: 511140 KB
+                n: 16384, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 66.7572, memory usage: 511176 KB
+                alg: hash_bucket w/ bucket_num: 231, bucket_size: 167
+        epsilon_inv: 8, bin_size: 65536, time: 273.45, memory usage: 532432 KB
+alg: hash_bucket w/ bucket_num: 533, bucket_size: 246
+file /home/cw166/Desktop/H2O2RAM/bin/hash_map.bin264 not found
+n: 128, op_num: 128
+alg: linear_scan
+n: 256, op_num: 256
+alg: linear_scan
+n: 512, op_num: 512
+alg: linear_scan
+n: 1024, op_num: 1024
+alg: linear_scan
+n: 2048, op_num: 2048
+alg: hash_bucket w/ bucket_num: 31, bucket_size: 155
+n: 4096, op_num: 4096
+alg: hash_bucket w/ bucket_num: 35, bucket_size: 232
+n: 8192, op_num: 8192
+                n: 4096, op_num: 8192
+                alg: hash_bucket w/ bucket_num: 66, bucket_size: 151
+        epsilon_inv: 4, bin_size: 16384, time: 46.6292, memory usage: 534280 KB
+alg: hash_bucket w/ bucket_num: 106, bucket_size: 176
+n: 16384, op_num: 16384
+                n: 8192, op_num: 16384
+                        epsilon_inv: 4, bin_size: 16384, time: 47.6947, memory usage: 568048 KB
+                alg: hash_bucket w/ bucket_num: 82, bucket_size: 209
+        epsilon_inv: 4, bin_size: 16384, time: 91.5983, memory usage: 579640 KB
+alg: hash_bucket w/ bucket_num: 50, bucket_size: 513
+n: 32768, op_num: 32768
+                n: 16384, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 85.4745, memory usage: 666760 KB
+                alg: hash_bucket w/ bucket_num: 181, bucket_size: 197
+        epsilon_inv: 4, bin_size: 16384, time: 179.37, memory usage: 666760 KB
+                n: 8192, op_num: 32768
+                        epsilon_inv: 4, bin_size: 16384, time: 49.5066, memory usage: 673536 KB
+                alg: hash_bucket w/ bucket_num: 106, bucket_size: 176
+        epsilon_inv: 8, bin_size: 65536, time: 165.445, memory usage: 701496 KB
+alg: hash_bucket w/ bucket_num: 355, bucket_size: 201
+n: 65536, op_num: 65536
+                n: 32768, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 177.43, memory usage: 877992 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 158.506, memory usage: 877992 KB
+                alg: hash_bucket w/ bucket_num: 518, bucket_size: 156
+        epsilon_inv: 4, bin_size: 16384, time: 416.745, memory usage: 921736 KB
+                n: 16384, op_num: 65536
+                        epsilon_inv: 4, bin_size: 16384, time: 87.652, memory usage: 931796 KB
+                alg: hash_bucket w/ bucket_num: 262, bucket_size: 154
+        epsilon_inv: 8, bin_size: 65536, time: 338.431, memory usage: 993540 KB
+alg: hash_bucket w/ bucket_num: 415, bucket_size: 295
+{
+  "context": {
+    "date": "2025-03-17T13:36:40-04:00",
+    "host_name": "ppdsa-u55c",
+    "executable": "./ORAMBenchmark",
+    "num_cpus": 12,
+    "mhz_per_cpu": 4200,
+    "cpu_scaling_enabled": true,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 49152,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 2097152,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [6.09814,4.28711,5.28076],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+n: 131072, op_num: 131072
+                n: 65536, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 147.725, memory usage: 1020732 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 131.146, memory usage: 1020732 KB
+                alg: hash_bucket w/ bucket_num: 1035, bucket_size: 157
+        epsilon_inv: 4, bin_size: 16384, time: 302.583, memory usage: 1020732 KB
+                n: 32768, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 77.1899, memory usage: 1020732 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 67.1698, memory usage: 1020860 KB
+                alg: hash_bucket w/ bucket_num: 681, bucket_size: 131
+        epsilon_inv: 8, bin_size: 65536, time: 263.476, memory usage: 1021908 KB
+                n: 16384, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 40.1291, memory usage: 1021908 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 16, bin_size: 262144, time: 338.94, memory usage: 1024492 KB
+alg: hash_bucket w/ bucket_num: 986, bucket_size: 262
+n: 262144, op_num: 262144
+                n: 131072, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 311.15, memory usage: 1102036 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 260.054, memory usage: 1102036 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 323.572, memory usage: 1102036 KB
+                alg: hash_bucket w/ bucket_num: 1661, bucket_size: 182
+        epsilon_inv: 4, bin_size: 16384, time: 649.501, memory usage: 1108624 KB
+                n: 65536, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 156.221, memory usage: 1108648 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 136.513, memory usage: 1109340 KB
+                alg: hash_bucket w/ bucket_num: 1609, bucket_size: 119
+        epsilon_inv: 8, bin_size: 65536, time: 547.573, memory usage: 1129384 KB
+                n: 32768, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 74.9951, memory usage: 1133112 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 68.2217, memory usage: 1133112 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 653.179, memory usage: 1151512 KB
+alg: hash_bucket w/ bucket_num: 1694, bucket_size: 293
+n: 524288, op_num: 524288
+                n: 262144, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 653.201, memory usage: 1267804 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 546.851, memory usage: 1268868 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 646.067, memory usage: 1276824 KB
+                alg: hash_bucket w/ bucket_num: 3604, bucket_size: 173
+        epsilon_inv: 4, bin_size: 16384, time: 1466.77, memory usage: 1327912 KB
+                n: 131072, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 301.06, memory usage: 1327948 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 263.105, memory usage: 1328192 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 318.737, memory usage: 1330760 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 1547.68, memory usage: 1368660 KB
+                n: 65536, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 144.199, memory usage: 1380272 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 130.428, memory usage: 1380272 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 1339.06, memory usage: 1412932 KB
+                n: 32768, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 80.8886, memory usage: 1421624 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 65.6831, memory usage: 1421624 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 1394.9, memory usage: 1475856 KB
+alg: hash_bucket w/ bucket_num: 3553, bucket_size: 284
+n: 1048576, op_num: 1048576
+                n: 524288, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 1496.31, memory usage: 1703876 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 1496.49, memory usage: 1703876 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1366.51, memory usage: 1726696 KB
+                        epsilon_inv: 32, bin_size: 1048576, time: 1383.89, memory usage: 1779136 KB
+                alg: hash_bucket w/ bucket_num: 6474, bucket_size: 187
+        epsilon_inv: 4, bin_size: 16384, time: 3256.04, memory usage: 1882600 KB
+                n: 262144, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 643.143, memory usage: 1882600 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 558.746, memory usage: 1882600 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 641.222, memory usage: 1882600 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 3397.46, memory usage: 1957612 KB
+                n: 131072, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 297.205, memory usage: 1980628 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 251.812, memory usage: 1980628 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 325.705, memory usage: 1980840 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 2866.56, memory usage: 2039916 KB
+                n: 65536, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 150.632, memory usage: 2041644 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 169.826, memory usage: 2043684 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 32, bin_size: 1048576, time: 3072.99, memory usage: 2130536 KB
+alg: hash_bucket w/ bucket_num: 12727, bucket_size: 190
+    {
+      "name": "ValueSizeQuery_16B/1048576/process_time/real_time",
+      "family_index": 0,
+      "per_family_instance_index": 0,
+      "run_name": "ValueSizeQuery_16B/1048576/process_time/real_time",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 1.1314472397789359e+06,
+      "cpu_time": 9.3886441529998593e+06,
+      "time_unit": "us"
+    }n: 131072, op_num: 131072
+                n: 65536, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 166.698, memory usage: 2269432 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 150.021, memory usage: 2269432 KB
+                alg: hash_bucket w/ bucket_num: 1035, bucket_size: 157
+        epsilon_inv: 4, bin_size: 16384, time: 352.289, memory usage: 2269432 KB
+                n: 32768, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 79.9088, memory usage: 2269432 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 72.6198, memory usage: 2269432 KB
+                alg: hash_bucket w/ bucket_num: 454, bucket_size: 170
+        epsilon_inv: 8, bin_size: 65536, time: 299.457, memory usage: 2269432 KB
+                n: 16384, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 42.5934, memory usage: 2269432 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 16, bin_size: 262144, time: 359.317, memory usage: 2269432 KB
+alg: hash_bucket w/ bucket_num: 1279, bucket_size: 218
+n: 262144, op_num: 262144
+                n: 131072, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 346.71, memory usage: 2327608 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 305.498, memory usage: 2327608 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 352.523, memory usage: 2327608 KB
+                alg: hash_bucket w/ bucket_num: 1990, bucket_size: 162
+        epsilon_inv: 4, bin_size: 16384, time: 810.02, memory usage: 2352008 KB
+                n: 65536, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 163.102, memory usage: 2361252 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 139.32, memory usage: 2361252 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 840.906, memory usage: 2382248 KB
+                n: 32768, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 80.4578, memory usage: 2390428 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 70.8288, memory usage: 2390428 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 766.74, memory usage: 2414968 KB
+alg: hash_bucket w/ bucket_num: 1866, bucket_size: 273
+n: 524288, op_num: 524288
+                n: 262144, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 813.452, memory usage: 2600012 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 806.25, memory usage: 2600764 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 771.74, memory usage: 2626928 KB
+                alg: hash_bucket w/ bucket_num: 3777, bucket_size: 168
+        epsilon_inv: 4, bin_size: 16384, time: 1803.31, memory usage: 2709988 KB
+                n: 131072, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 356.612, memory usage: 2724280 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 294.909, memory usage: 2724524 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 354.502, memory usage: 2724756 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 1839.41, memory usage: 2781124 KB
+                n: 65536, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 164.609, memory usage: 2793912 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 142.146, memory usage: 2793912 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 1735.9, memory usage: 2852392 KB
+                n: 32768, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 89.3979, memory usage: 2869060 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 72.9707, memory usage: 2869060 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 1639.57, memory usage: 2951640 KB
+alg: hash_bucket w/ bucket_num: 6818, bucket_size: 181
+n: 1048576, op_num: 1048576
+                n: 524288, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 1790.9, memory usage: 3352032 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 1841.4, memory usage: 3352032 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1738.62, memory usage: 3372984 KB
+                        epsilon_inv: 32, bin_size: 1048576, time: 1602.03, memory usage: 3465636 KB
+                alg: hash_bucket w/ bucket_num: 9394, bucket_size: 147
+        epsilon_inv: 4, bin_size: 16384, time: 3845.74, memory usage: 3626920 KB
+                n: 262144, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 816.767, memory usage: 3626920 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 839.781, memory usage: 3626920 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 777.089, memory usage: 3645888 KB
+                alg: oblivious two_tier w/ epsilon: 8
+        epsilon_inv: 8, bin_size: 65536, time: 4514.24, memory usage: 3759448 KB
+                n: 131072, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 362.023, memory usage: 3791736 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 305.435, memory usage: 3791736 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 351.813, memory usage: 3791736 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 3848.96, memory usage: 3904056 KB
+                n: 65536, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 164.284, memory usage: 3928576 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 147.991, memory usage: 3928576 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 3420.86, memory usage: 4090828 KB
+alg: hash_bucket w/ bucket_num: 15221, bucket_size: 169
+,
+    {
+      "name": "ValueSizeQuery_32B/1048576/process_time/real_time",
+      "family_index": 1,
+      "per_family_instance_index": 0,
+      "run_name": "ValueSizeQuery_32B/1048576/process_time/real_time",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 1.3569547077640891e+06,
+      "cpu_time": 1.1126672322999183e+07,
+      "time_unit": "us"
+    }n: 131072, op_num: 131072
+                n: 65536, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 213.087, memory usage: 4278860 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 187.065, memory usage: 4278860 KB
+                alg: hash_bucket w/ bucket_num: 1035, bucket_size: 157
+        epsilon_inv: 4, bin_size: 16384, time: 482.869, memory usage: 4278860 KB
+                n: 32768, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 97.3226, memory usage: 4278860 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 90.7162, memory usage: 4278860 KB
+                alg: hash_bucket w/ bucket_num: 681, bucket_size: 131
+        epsilon_inv: 8, bin_size: 65536, time: 423.753, memory usage: 4278860 KB
+                n: 16384, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 53.2198, memory usage: 4278860 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 16, bin_size: 262144, time: 480.715, memory usage: 4278860 KB
+alg: hash_bucket w/ bucket_num: 1278, bucket_size: 218
+n: 262144, op_num: 262144
+                n: 131072, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 493.905, memory usage: 4430060 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 413.501, memory usage: 4430060 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 500.059, memory usage: 4451416 KB
+                alg: hash_bucket w/ bucket_num: 1990, bucket_size: 162
+        epsilon_inv: 4, bin_size: 16384, time: 1094.79, memory usage: 4523388 KB
+                n: 65536, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 208.461, memory usage: 4525244 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 181.439, memory usage: 4525244 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 1126.69, memory usage: 4571064 KB
+                n: 32768, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 102.653, memory usage: 4593680 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 91.8592, memory usage: 4593680 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 1026.81, memory usage: 4637452 KB
+alg: hash_bucket w/ bucket_num: 3604, bucket_size: 173
+n: 524288, op_num: 524288
+                n: 262144, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 1096.24, memory usage: 5002492 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 1162.24, memory usage: 5002492 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1007.15, memory usage: 5031140 KB
+                alg: hash_bucket w/ bucket_num: 4958, bucket_size: 141
+        epsilon_inv: 4, bin_size: 16384, time: 2364.11, memory usage: 5214316 KB
+                n: 131072, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 488.655, memory usage: 5214316 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 399.359, memory usage: 5214316 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 485.7, memory usage: 5214316 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 2504.72, memory usage: 5317816 KB
+                n: 65536, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 213.165, memory usage: 5353736 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 180.915, memory usage: 5353968 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 2194.7, memory usage: 5435716 KB
+                n: 32768, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 107.081, memory usage: 5477776 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 86.3561, memory usage: 5477776 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 2166.99, memory usage: 5616836 KB
+alg: hash_bucket w/ bucket_num: 7720, bucket_size: 167
+n: 1048576, op_num: 1048576
+                n: 524288, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 2359.58, memory usage: 6267332 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 2546.81, memory usage: 6292304 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 2228.55, memory usage: 6382332 KB
+                        epsilon_inv: 32, bin_size: 1048576, time: 2168.84, memory usage: 6530156 KB
+                alg: hash_bucket w/ bucket_num: 11756, bucket_size: 128
+        epsilon_inv: 4, bin_size: 16384, time: 4968.61, memory usage: 6831680 KB
+                n: 262144, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 1099.37, memory usage: 6862912 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 1136.21, memory usage: 6862912 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 999.893, memory usage: 6876060 KB
+                alg: oblivious two_tier w/ epsilon: 8
+        epsilon_inv: 8, bin_size: 65536, time: 5724.52, memory usage: 7077376 KB
+                n: 131072, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 488.078, memory usage: 7166092 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 415.558, memory usage: 7166092 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 476.628, memory usage: 7179748 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 4913.8, memory usage: 7382944 KB
+                n: 65536, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 207.059, memory usage: 7443104 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 184.403, memory usage: 7443104 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 4820.37, memory usage: 7688852 KB
+alg: hash_bucket w/ bucket_num: 17880, bucket_size: 152
+,
+    {
+      "name": "ValueSizeQuery_64B/1048576/process_time/real_time",
+      "family_index": 2,
+      "per_family_instance_index": 0,
+      "run_name": "ValueSizeQuery_64B/1048576/process_time/real_time",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 1.8860492589883506e+06,
+      "cpu_time": 1.4931719563000115e+07,
+      "time_unit": "us"
+    }n: 131072, op_num: 131072
+                n: 65536, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 283.55, memory usage: 8028964 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 279.226, memory usage: 8028964 KB
+                alg: hash_bucket w/ bucket_num: 1108, bucket_size: 150
+        epsilon_inv: 4, bin_size: 16384, time: 652.836, memory usage: 8028964 KB
+                n: 32768, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 141.352, memory usage: 8028964 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 128.14, memory usage: 8028964 KB
+                alg: hash_bucket w/ bucket_num: 781, bucket_size: 120
+        epsilon_inv: 8, bin_size: 65536, time: 629.121, memory usage: 8028964 KB
+                n: 16384, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 69.0183, memory usage: 8028964 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 16, bin_size: 262144, time: 660.52, memory usage: 8028964 KB
+alg: hash_bucket w/ bucket_num: 1899, bucket_size: 167
+n: 262144, op_num: 262144
+                n: 131072, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 644.384, memory usage: 8331784 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 639.532, memory usage: 8331784 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 664.55, memory usage: 8373376 KB
+                alg: hash_bucket w/ bucket_num: 2283, bucket_size: 148
+        epsilon_inv: 4, bin_size: 16384, time: 1459.9, memory usage: 8504308 KB
+                n: 65536, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 292.281, memory usage: 8518980 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 273.197, memory usage: 8518980 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 1899.22, memory usage: 8575404 KB
+                n: 32768, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 135.643, memory usage: 8613128 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 129.233, memory usage: 8613128 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 1455.82, memory usage: 8703128 KB
+alg: hash_bucket w/ bucket_num: 4958, bucket_size: 141
+n: 524288, op_num: 524288
+                n: 262144, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 1447.31, memory usage: 9347268 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 1922.56, memory usage: 9347268 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1421.79, memory usage: 9426972 KB
+                alg: hash_bucket w/ bucket_num: 4786, bucket_size: 144
+        epsilon_inv: 4, bin_size: 16384, time: 3102.57, memory usage: 9696288 KB
+                n: 131072, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 657.673, memory usage: 9696288 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 629.36, memory usage: 9696288 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 655.373, memory usage: 9729772 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 4239.68, memory usage: 9912576 KB
+                n: 65536, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 288.804, memory usage: 9980416 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 268.302, memory usage: 9980416 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 3191.35, memory usage: 10163792 KB
+                n: 32768, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 127.264, memory usage: 10272804 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 119.69, memory usage: 10272804 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 2994.7, memory usage: 10664208 KB
+alg: hash_bucket w/ bucket_num: 7720, bucket_size: 167
+n: 1048576, op_num: 1048576
+                n: 524288, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 3097.05, memory usage: 11631536 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 4206.47, memory usage: 11690260 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 3211.71, memory usage: 11854808 KB
+                        epsilon_inv: 32, bin_size: 1048576, time: 3072.24, memory usage: 12317496 KB
+                alg: hash_bucket w/ bucket_num: 10082, bucket_size: 140
+        epsilon_inv: 4, bin_size: 16384, time: 6570.36, memory usage: 12618668 KB
+                n: 262144, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 1461.76, memory usage: 12618668 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 1912.08, memory usage: 12618668 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1469.42, memory usage: 12653536 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 8, bin_size: 65536, time: 8283.73, memory usage: 13122096 KB
+                n: 131072, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 658.661, memory usage: 13223888 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 635.445, memory usage: 13223888 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 646.103, memory usage: 13240660 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 7184, memory usage: 13678212 KB
+                n: 65536, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 287.115, memory usage: 13801720 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 270.899, memory usage: 13801720 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 6670.19, memory usage: 14577032 KB
+alg: hash_bucket w/ bucket_num: 15221, bucket_size: 169
+,
+    {
+      "name": "ValueSizeQuery_128B/1048576/process_time/real_time",
+      "family_index": 3,
+      "per_family_instance_index": 0,
+      "run_name": "ValueSizeQuery_128B/1048576/process_time/real_time",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 2.6776524931192398e+06,
+      "cpu_time": 2.1091334572000049e+07,
+      "time_unit": "us"
+    }n: 131072, op_num: 131072
+                n: 65536, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 407.28, memory usage: 14670748 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 353.577, memory usage: 14670748 KB
+                alg: hash_bucket w/ bucket_num: 916, bucket_size: 170
+        epsilon_inv: 4, bin_size: 16384, time: 972.377, memory usage: 14670748 KB
+                n: 32768, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 179.55, memory usage: 14670748 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 159.56, memory usage: 14670748 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 931.864, memory usage: 14670748 KB
+                n: 16384, op_num: 131072
+                        epsilon_inv: 4, bin_size: 16384, time: 89.0602, memory usage: 14701368 KB
+                alg: oblivious two_tier w/ epsilon: 2
+        epsilon_inv: 16, bin_size: 262144, time: 897.918, memory usage: 14787148 KB
+alg: hash_bucket w/ bucket_num: 986, bucket_size: 262
+n: 262144, op_num: 262144
+                n: 131072, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 972.121, memory usage: 15347460 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 929.258, memory usage: 15390228 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 914.613, memory usage: 15501124 KB
+                alg: hash_bucket w/ bucket_num: 1754, bucket_size: 176
+        epsilon_inv: 4, bin_size: 16384, time: 2110.33, memory usage: 15740380 KB
+                n: 65536, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 409.732, memory usage: 15753644 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 353.726, memory usage: 15758220 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 8, bin_size: 65536, time: 1991.04, memory usage: 15938644 KB
+                n: 32768, op_num: 262144
+                        epsilon_inv: 4, bin_size: 16384, time: 176.369, memory usage: 16025324 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 160.099, memory usage: 16025324 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 1862.53, memory usage: 16174460 KB
+alg: hash_bucket w/ bucket_num: 2596, bucket_size: 216
+n: 524288, op_num: 524288
+                n: 262144, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 2115.93, memory usage: 17295632 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 2039.72, memory usage: 17404844 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1872.11, memory usage: 17588552 KB
+                alg: hash_bucket w/ bucket_num: 4786, bucket_size: 144
+        epsilon_inv: 4, bin_size: 16384, time: 4489.54, memory usage: 18086604 KB
+                n: 131072, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 971.173, memory usage: 18108528 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 913.475, memory usage: 18149676 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 909.444, memory usage: 18260596 KB
+                alg: oblivious two_tier w/ epsilon: 8
+        epsilon_inv: 8, bin_size: 65536, time: 4870.1, memory usage: 18612740 KB
+                n: 65536, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 407.943, memory usage: 18735140 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 354.777, memory usage: 18741316 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 16, bin_size: 262144, time: 4036.7, memory usage: 19154072 KB
+                n: 32768, op_num: 524288
+                        epsilon_inv: 4, bin_size: 16384, time: 174.045, memory usage: 19266184 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 162.041, memory usage: 19266184 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 4228.84, memory usage: 19921892 KB
+alg: hash_bucket w/ bucket_num: 5916, bucket_size: 199
+n: 1048576, op_num: 1048576
+                n: 524288, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 4509.51, memory usage: 21858716 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 4787.74, memory usage: 22060628 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 3990.99, memory usage: 22416580 KB
+                        epsilon_inv: 32, bin_size: 1048576, time: 4210.8, memory usage: 23131948 KB
+                alg: hash_bucket w/ bucket_num: 7720, bucket_size: 167
+        epsilon_inv: 4, bin_size: 16384, time: 9508.01, memory usage: 23696312 KB
+                n: 262144, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 2108.86, memory usage: 23757692 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 2030.83, memory usage: 23865672 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 1852, memory usage: 24031176 KB
+                alg: oblivious two_tier w/ epsilon: 8
+        epsilon_inv: 8, bin_size: 65536, time: 10257, memory usage: 24719132 KB
+                n: 131072, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 980.408, memory usage: 24964876 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 921.883, memory usage: 24980168 KB
+                        epsilon_inv: 16, bin_size: 262144, time: 885.124, memory usage: 25091052 KB
+                alg: oblivious two_tier w/ epsilon: 8
+        epsilon_inv: 16, bin_size: 262144, time: 9704.35, memory usage: 25870224 KB
+                n: 65536, op_num: 1048576
+                        epsilon_inv: 4, bin_size: 16384, time: 416.99, memory usage: 25994552 KB
+                        epsilon_inv: 8, bin_size: 65536, time: 345.905, memory usage: 25994552 KB
+                alg: oblivious two_tier w/ epsilon: 4
+        epsilon_inv: 32, bin_size: 1048576, time: 8817.44, memory usage: 27344316 KB
+alg: hash_bucket w/ bucket_num: 11348, bucket_size: 205
+,
+    {
+      "name": "ValueSizeQuery_256B/1048576/process_time/real_time",
+      "family_index": 4,
+      "per_family_instance_index": 0,
+      "run_name": "ValueSizeQuery_256B/1048576/process_time/real_time",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 4.4507996100001037e+06,
+      "cpu_time": 3.5218925266000949e+07,
+      "time_unit": "us"
+    }
+  ]
+}

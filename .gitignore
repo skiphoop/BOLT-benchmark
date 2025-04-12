@@ -1,0 +1,18 @@
+# Mac system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+dist/
+build/
+

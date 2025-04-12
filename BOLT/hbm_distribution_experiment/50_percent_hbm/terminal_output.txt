@@ -1,0 +1,95 @@
+Start testing 50% HBM
+Init tuples size is 1000000
+The value size is 8
+Finish to generate bos
+HBM count is 499494
+Host count is 500506
+Insert error count is 0
+The hbm_key_to_index size is 499494
+The host_key_to_index size is 500506
+The init time is 1.42505s
+Command size is 2000
+total time = 0.00745843s
+AVERAGE LATENCY = 3.72922e-06s
+The number of response is 2000
+The number of mistake is 0
+Error casused by not inserted into the hbm or host page (random seed) is 0
+The number of get command is 1414
+The number of put command is 586
+
+Start testing 50% HBM
+Init tuples size is 1000000
+The value size is 8
+Finish to generate bos
+HBM count is 499494
+Host count is 500506
+Insert error count is 0
+The hbm_key_to_index size is 499494
+The host_key_to_index size is 500506
+The init time is 1.55721s
+Command size is 2000
+total time = 0.00746495s
+AVERAGE LATENCY = 3.73247e-06s
+The number of response is 2000
+The number of mistake is 0
+Error casused by not inserted into the hbm or host page (random seed) is 0
+The number of get command is 1414
+The number of put command is 586
+
+Start testing 50% HBM
+Init tuples size is 1000000
+The value size is 8
+Finish to generate bos
+HBM count is 499494
+Host count is 500506
+Insert error count is 0
+The hbm_key_to_index size is 499494
+The host_key_to_index size is 500506
+The init time is 1.65367s
+Command size is 2000
+total time = 0.00746544s
+AVERAGE LATENCY = 3.73272e-06s
+The number of response is 2000
+The number of mistake is 0
+Error casused by not inserted into the hbm or host page (random seed) is 0
+The number of get command is 1414
+The number of put command is 586
+
+Init tuples size is 1000000
+The value size is 8
+Finish to generate bos
+HBM count is 499494
+Host count is 500506
+Insert error count is 0
+The hbm_key_to_index size is 499494
+The host_key_to_index size is 500506
+The init time is 1.61473s
+Command size is 2000
+total time = 0.00746487s
+AVERAGE LATENCY = 3.73244e-06s
+The number of response is 2000
+The number of mistake is 0
+Error casused by not inserted into the hbm or host page (random seed) is 0
+The number of get command is 1414
+The number of put command is 586
+
+Start testing 50% HBM
+Init tuples size is 1000000
+The value size is 8
+Finish to generate bos
+HBM count is 499494
+Host count is 500506
+Insert error count is 0
+The hbm_key_to_index size is 499494
+The host_key_to_index size is 500506
+The init time is 1.38935s
+Command size is 2000
+total time = 0.00746054s
+AVERAGE LATENCY = 3.73027e-06s
+The number of response is 2000
+The number of mistake is 0
+Error casused by not inserted into the hbm or host page (random seed) is 0
+The number of get command is 1414
+The number of put command is 586
+
+1.55721s
