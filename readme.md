@@ -1,6 +1,6 @@
-# Benchmark Repository Overview
+# Benchmark Repository
 
-This repository contains a prototype implementation of BOLT—a bandwidth-optimized, lightning-fast Oblivious Map—along with benchmarking code for performance comparisons. Each subfolder corresponds to a specific experiment or artifact test code. Please refer to the individual folders for more detailed instructions on how to run each benchmark. We have provided readme in each folder.
+This repository contains a prototype implementation of BOLT—a bandwidth-optimized, lightning-fast Oblivious Map—along with benchmarking code for performance comparisons. Each subfolder corresponds to a specific experiment along with artifact test code. Please refer to the individual folders for more detailed instructions on how to run each benchmark. We have provided readme in each folder.
 
 ## ⚠️ Notice on Benchmark Code Reuse
 
@@ -22,7 +22,7 @@ Our benchmarking framework reuses and builds upon the original benchmark or test
   Contains experiments based on the artifact [H2O2RAM repository](https://github.com/55199789/H2O2RAM) from the H2O2RAM paper [Paper Link](https://doi.org/10.48550/arXiv.2409.07167).
 
 - **`BOLT/`**  
-  Contains all the experiments referenced in our paper under the BOLT framework as well as the FPGA baseline.
+  Contains all the experiments for testing performance of BOLT as well as the FPGA baseline.
 
 
 ## Additional artifacts
