@@ -15,22 +15,23 @@ The benchmark consists of two main test cases:
 
 ### PointSearchPartial
 
-Tests query performance by:
-1. Creating an ORAM-based tree of a specific size
-2. Inserting a small number of random key-value pairs
-3. Measuring the time to perform multiple random queries
-4. Testing across multiple ORAM sizes ranging from 2 to 262,144
+Evaluates query performance under varying dataset sizes by:
+1. Creating an ORAM-based tree of a specific size (not timed)
+2. Inserting a small number of random key-value pairs (not timed)
+3. Measuring the time to perform multiple random queries (**timed**)
+4. Our test will repeat and across multiple ORAM sizes ranging from 2 to 262,144
 
 ### InsertionsPartial
 
-Tests insertion performance by:
-1. Creating an ORAM-based tree of a specific size
-2. Measuring the time to insert random key-value pairs
-3. Testing across multiple ORAM sizes ranging from 2 to 262,144
+Evaluates initialization performance by:
+
+1. Creating an empty ORAM-based tree of a given target size (**timed**).
+2. Inserting a full set of random key-value pairs until the tree reaches its target size (**timed**).
+3. Repeating the test across ORAM sizes ranging from 2 to 262,144 entries and measure the time spent on init.
 
 ## Important Modifications
 
-We made minor edits to the original EnigMap code to control the data size as we encountered program failures when sizes exceeded approximately 270,000. Our modifications ensure all test cases use input sizes within this limit.
+We made minor edits to the original EnigMap code to control the data size as we encountered program failures when sizes exceeded approximately 270,000. Our modifications ensure all test cases use input sizes within this limit. In addition, we cannot change value size so the value size is fixed in all experiment as default.
 
 ## How to Run
 
@@ -55,4 +56,4 @@ The benchmark outputs detailed reports for each test case, including:
 - Total execution time
 - Per-operation time in microseconds
 
-The results are saved in the file `enigmap_benchmark.log`
+The results are saved in the file `/results/enigmap_benchmark.log`
